@@ -1,0 +1,12 @@
+apache-sedona
+dask[complete]
+s3fs
+gcsfs
+adlfs
+geopandas
+rioxarray
+xarray
+hvplot
+leafmap
+keplergl
+folium
